@@ -1,0 +1,7 @@
+matplotlib
+natsort
+notebook
+numpy
+pillow
+tifffile
+scikit-learn
